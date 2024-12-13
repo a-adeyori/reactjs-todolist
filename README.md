@@ -96,15 +96,14 @@ Follow these steps to run the app locally:
 
 ```
 crud-react-app/
-├── public/
-│   └── index.html
+├── index.html
 ├── src/
 │   ├── components/
-│   │   ├── TodoInput.js
-│   │   ├── TodoList.js
-│   │   ├── TodoCard.js
-│   ├── App.js
-│   ├── main.js
+│   │   ├── TodoInput.jsx
+│   │   ├── TodoList.jsx
+│   │   ├── TodoCard.jsx
+│   ├── App.jsx
+│   ├── main.jsx
 │   ├── index.css
 └── package.json
 ```
