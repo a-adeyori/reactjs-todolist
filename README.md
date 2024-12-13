@@ -134,6 +134,6 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 For questions or support, please contact:
 
 - **Name:** Adeyori Adekunle
-- **Email:** [your-email@example.com](mailto\:adekunleadeyori@example.com)
-- **LinkedIn:** [your-username](https://linkedin.com/in/adeyoriadekunle)
+- **Email:** [adekunleadeyori@gmail.com](mailto\:adekunleadeyori@gmail.com)
+- **LinkedIn:** [Adeyori Adekunle](https://linkedin.com/in/adeyoriadekunle)
 
