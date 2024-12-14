@@ -12,9 +12,15 @@ function App() {
   }
 
   function handleAddTodos(newTodo) {
-    const newTodoList = [...todos, newTodo]
-    persisitData(newTodoList)
+    if (newTodo!== ""){
+      const newTodoList = [...todos, newTodo]
+      persisitData(newTodoList)
     setTodos(newTodoList)
+    }
+    else{
+      return
+    }
+    
   }
 
   function handleDeleteTodo(index) {
